@@ -7,8 +7,8 @@ A desktop plugin for stock Paseo. Select part of an assistant message, click **R
 Clone this repository and install its dependencies:
 
 ```sh
-gh repo clone loftiskg/paseo-selected-reply
-cd paseo-selected-reply
+gh repo clone loftiskg/paseo-reply
+cd paseo-reply
 npm ci --ignore-scripts
 ```
 
