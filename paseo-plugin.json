@@ -2,5 +2,6 @@
   "id": "selected-reply",
   "name": "Selected Reply",
   "description": "Reply to selected assistant text with editable quotes in your draft.",
-  "requirements": { "paseo": ">=0.13.0 <0.14.0" }
+  "requirements": { "paseo": ">=0.13.0 <0.14.0" },
+  "build": [["npm", "ci"]]
 }
